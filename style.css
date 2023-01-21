@@ -1,0 +1,116 @@
+body{
+   
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden; 
+} 
+
+
+nav{
+    background: linear-gradient(
+        26.99deg,
+        #BF8A7E -38.03%,
+        rgba(101, 54, 158, 0) 137.84%
+      ); 
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
+
+
+
+.btn_principal{
+
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    background: linear-gradient(
+        180deg,
+        #D9B5A0 -18.18%,
+        rgba(217, 217, 217, 0) 
+      );
+    color: black;
+    border: none;
+}
+
+.btn_principal:hover{
+
+    background: linear-gradient(
+        180deg,
+        #F2CBC2 -18.18%,
+        rgba(217, 217, 217, 0) 
+    );
+}
+
+.modal-contenedor{
+    display:flex;
+    align-items: center;
+    gap:1rem;
+}
+
+
+
+.carrito{
+    color: black; 
+    float: right;
+}
+
+.img-carrito{
+    width:200px;
+    padding:20px;
+}
+
+.parrafo{
+    font-weight: 700;
+}
+
+
+.card-p{
+    text-align: center;
+}
+
+.inputs{
+    box-shadow:0 0 0 0rem rgba(0, 0, 0, 0) !important;
+    border-color: #BF8A7E !important;
+    
+}
+
+main{
+    min-height: 100%;
+}
+
+footer{
+    margin-top: auto;
+     min-height: 12vh;
+     background: linear-gradient(
+         26.99deg,
+         #BF8A7E -38.03%,
+         rgba(101, 54, 158, 0) 137.84%
+       );
+ 
+ } 
+ 
+ #main_compra{
+    min-height: 100%;
+ }
+
+
+ a{
+    text-decoration: none;
+    cursor:pointer;
+    padding: 4px;
+    
+    
+}
+
+a:hover{
+    color: black;
+}
+
+
+.boton{
+    opacity:0;
+}
+
+.alerta{
+    font-weight: 900;
+}

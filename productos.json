@@ -1,0 +1,9 @@
+[
+
+{"id": 1,"nombre":"Zarcillos","cantidad":1,"precio": 1000,"img": "./assets/images/zarcillos.jpg"},
+{"id": 2,"nombre":"Lentes","cantidad":1,"precio": 1500,"img": "./assets/images/lentes_oscuros.jpg"},
+{"id": 3,"nombre":"Anillo","cantidad":1,"precio": 2500,"img": "./assets/images/anillo.jpg"},
+{"id": 4,"nombre": "Cadena","cantidad":1,"precio": 3500,"img": "./assets/images/cadena_2.jpg"}
+
+
+]
